@@ -1,0 +1,7 @@
+{
+  "Sillys": [
+    {
+      "name": "shadow",
+      "user-id": "1234"
+    },
+}
