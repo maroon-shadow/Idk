@@ -1,5 +1,11 @@
 {
   "Sillys": [
-    { "name": "shadow", "userid": "AE10C04744CCF6E7" }
+    { "name": "shadow", "userid": "AE10C04744CCF6E7" },
+    { "name": "star", "userid": "5CB9F584B413BFD2" }
+  ],
+
+  "SuperSilly": [
+    "shadow",
+    "star"
   ]
 }
